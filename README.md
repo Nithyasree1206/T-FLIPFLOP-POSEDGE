@@ -67,7 +67,8 @@ endmodule
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![wf9](https://github.com/user-attachments/assets/813a87fa-23ad-4af4-a959-a80e51a5bffc)
+![wf9](https://github.com/user-attachments/assets/23cd44b8-829c-4c7b-a7c2-6163f55b1976)
+
 
 **RESULTS**
 Therefore T flip flops In always @ method uisng verilog and validating their functionally using their functional tables is verify.
