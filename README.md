@@ -57,7 +57,7 @@ begin
 	  q<=~q;
  end
 endmodule
- !T tt[image](https://github.com/user-attachments/assets/167905e3-c985-4d5e-b555-f1d7e8fc7ad4)
+ ![image](https://github.com/user-attachments/assets/167905e3-c985-4d5e-b555-f1d7e8fc7ad4)
 
 
 */
